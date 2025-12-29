@@ -1,0 +1,5 @@
+{
+  "name": "交互体验流程",
+  "description": "An AI-powered interactive design assistant that transforms operational requirements into high-fidelity prototype specifications and Midjourney prompts using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
